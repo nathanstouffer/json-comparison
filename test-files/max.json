@@ -1,0 +1,9 @@
+{
+  "name": "max",
+  "address": {
+    "number": 123,
+    "street": "oak st",
+    "city": "Billings",
+    "state": "MT"
+  }
+}
