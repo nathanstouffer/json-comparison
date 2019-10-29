@@ -20,6 +20,7 @@ Whereas, elements in object and array types contribute to a portion of the simil
 However, this is applied at each element, so differences further 'down' in the JsonElement affect the overall similarity less.
 
 An example is shown here with JSON files as follows:
+
 file 1:
 {
   "name" : "joe",
