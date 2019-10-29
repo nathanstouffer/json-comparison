@@ -72,7 +72,7 @@ public class JsonContainer {
         // return 0.0 if elements are of different type
         // get class types in string format
         String type1 = el1.getClass().toString();
-        String type2 = el1.getClass().toString();
+        String type2 = el2.getClass().toString();
         // if element types differ, return false
         if (!type1.equals(type2)) { return 0.0; }
         

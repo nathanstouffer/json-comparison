@@ -1,4 +1,10 @@
 {
-  "stuff" : 1,
-  "other" : 1
+  "name": "max",
+  "address": {
+    "number": 123,
+    "street": "oak st",
+    "city": "Billings",
+    "state": "MT",
+    "zip" : []
+  }
 }
